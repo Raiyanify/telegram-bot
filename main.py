@@ -10,7 +10,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = os.environ.get("8295436325:AAGUFpFEUMY8wJvQw_71ABw8CogP838pFro")
+BOT_TOKEN = os.environ.get("8219424173:AAH2OptkkF3uWBVScSH31IgYd7sMLF7P6fo")
 HF_TOKEN = os.environ.get("")
 GITHUB_USER = os.environ.get("Raiyanify")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")  # optional
